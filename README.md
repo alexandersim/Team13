@@ -1,16 +1,12 @@
 # Team13
 
-Spring MVC webform for CAPS application
+<h2> Spring MVC webform for CAPS application </h2>
 
-
-
-
-
-Alexander Sim
-Cliffton Ong
-Feng Yuxi
-Garrett Zhao
-Sun Mingyi
-Ow Wai Ching
-Thng Yuhong
+Alexander Sim <br/>
+Cliffton Ong <br/>
+Feng Yuxi <br/>
+Garrett Zhao <br/>
+Sun Mingyi <br/>
+Ow Wai Ching <br/>
+Thng Yuhong <br/>
 Wang Futong
