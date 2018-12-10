@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: TR
+Build-Jdk: 11.0.1
+Implementation-Title: caps
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sg.iss
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/caps
+Created-By: Maven Integration for Eclipse
+
