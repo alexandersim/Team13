@@ -32,7 +32,7 @@ public class EmailServiceImpl {
 			MessagingException {
 		String[] toEmails = { "feng.yuxi@u.nus.edu", "e0338082@u.nus.edu" };
 		String emailSubject = "Java Email";
-		String emailBody = "This is an email sent by JavaMail api.";
+		String emailBody = "This is an email sent by Yuxi";
 
 		mailSession = Session.getDefaultInstance(emailProperties, null);
 		emailMessage = new MimeMessage(mailSession);
